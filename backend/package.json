@@ -1,0 +1,14 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "the chat server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "zardashtkaya",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
